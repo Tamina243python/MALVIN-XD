@@ -8,7 +8,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~VhpjwDKC#r32K-INIsDzQnQppZ3b-slGKwHDTfWM1anycVNFLiAs",
 // add your Session Id 
 
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || ":",
 // add your prifix for bot
 
 BOT_NAME: process.env.BOT_NAME || "🔎 ᴊɪɴx  🔎",
@@ -107,7 +107,7 @@ FAKE_TYPING: process.env.FAKE_TYPING || "false",
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-DEV: process.env.DEV || "447956088879",
+DEV: process.env.DEV || "639652909071",
 //replace with your whatsapp number       
  
 ANTI_VV: process.env.ANTI_VV || "true",
